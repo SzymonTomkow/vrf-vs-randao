@@ -1,0 +1,18 @@
+
+PODSUMOWANIE ANALIZY STATYSTYCZNEJ (N=500)
+
+RANDAO:
+- Średnia: 52.23
+- Odchylenie std: 29.32
+- Entropia: 6.54 bitów
+- Chi-kwadrat: 6.680 (PASSED)
+
+VRF:
+- Średnia: 50.35
+- Odchylenie std: 29.28
+- Entropia: 6.50 bitów
+- Chi-kwadrat: 10.240 (PASSED)
+
+WNIOSKI:
+Oba algorytmy wykazują zgodność z rozkładem jednostajnym.
+Nie ma statystycznie istotnej różnicy w jakości generowanych liczb losowych.
